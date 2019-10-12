@@ -1,0 +1,14 @@
+# tnas.link
+
+192.168.3.33 tnas.link
+192.168.3.33 ftp.tnas.link 
+192.168.3.33 ssh.tnas.link 
+192.168.3.33 mysql.tnas.link
+192.168.3.33 mariadb.tnas.link 
+192.168.3.33 rancher.tnas.link 
+192.168.3.33 jenkins.tnas.link 
+192.168.3.33 gitlab.tnas.link 
+192.168.3.33 rsync.tnas.link 
+
+192.168.3.33 zhangbo.link
+192.168.3.33 drive.zhangbo.link
