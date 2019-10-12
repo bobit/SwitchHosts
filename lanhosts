@@ -1,5 +1,4 @@
-# tnas.link
-
+## tnas
 192.168.3.33 tnas.link
 192.168.3.33 ftp.tnas.link 
 192.168.3.33 ssh.tnas.link 
@@ -10,7 +9,6 @@
 192.168.3.33 gitlab.tnas.link 
 192.168.3.33 rsync.tnas.link 
 
-192.168.3.33 zhangbo.link
-192.168.3.33 drive.zhangbo.link
+## miwifi
+192.168.3.1 miwifi.link
 
-192.168.3.1 miwifi.zhangbo.link
