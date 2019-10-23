@@ -1,13 +1,13 @@
 ## nas
-192.168.3.33 tnas.link
-192.168.3.33 ftp.tnas.link 
-192.168.3.33 ssh.tnas.link 
-192.168.3.33 mysql.tnas.link
-192.168.3.33 mariadb.tnas.link 
-192.168.3.33 rancher.tnas.link 
-192.168.3.33 jenkins.tnas.link 
-192.168.3.33 gitlab.tnas.link 
-192.168.3.33 rsync.tnas.link 
+192.168.3.3 tnas.link
+192.168.3.3 ftp.tnas.link 
+192.168.3.3 ssh.tnas.link 
+192.168.3.3 mysql.tnas.link
+192.168.3.3 mariadb.tnas.link 
+192.168.3.3 rancher.tnas.link 
+192.168.3.3 jenkins.tnas.link 
+192.168.3.3 gitlab.tnas.link 
+192.168.3.3 rsync.tnas.link 
 
 ## miwifi
 192.168.3.1 miwifi.link
