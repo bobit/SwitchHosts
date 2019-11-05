@@ -1,10 +1,27 @@
-## nas
-27.189.122.227 tnas.link
-27.189.122.227 ftp.tnas.link 
-27.189.122.227 ssh.tnas.link 
-27.189.122.227 mysql.tnas.link
-27.189.122.227 mariadb.tnas.link 
-27.189.122.227 rancher.tnas.link 
-27.189.122.227 jenkins.tnas.link 
-27.189.122.227 gitlab.tnas.link 
-27.189.122.227 rsync.tnas.link 
+## f2
+27.189.121.133 f2.nas.link
+27.189.121.133 f2.ftp.nas.link 
+27.189.121.133 f2.sftp.nas.link
+27.189.121.133 f2.ssh.nas.link 
+27.189.121.133 f2.mysql.nas.link
+27.189.121.133 f2.mariadb.nas.link 
+27.189.121.133 f2.rancher.nas.link 
+27.189.121.133 f2.jenkins.nas.link 
+27.189.121.133 f2.gitlab.nas.link 
+27.189.121.133 f2.rsync.nas.link 
+
+## f4
+27.189.121.133 f4.nas.link
+27.189.121.133 f4.ftp.nas.link
+27.189.121.133 f4.sftp.nas.link 
+27.189.121.133 f4.ssh.nas.link 
+27.189.121.133 f4.mysql.nas.link
+27.189.121.133 f4.mariadb.nas.link 
+27.189.121.133 f4.rancher.nas.link 
+27.189.121.133 f4.jenkins.nas.link 
+27.189.121.133 f4.gitlab.nas.link 
+27.189.121.133 f4.rsync.nas.link 
+
+## wifi
+192.168.3.1 wifi.link
+
